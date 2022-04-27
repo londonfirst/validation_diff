@@ -1,2 +1,8 @@
-do or not to do?!
-This is a question
+def main():
+    print("Hello word!")
+
+
+
+
+if name == __main__:
+    main()
