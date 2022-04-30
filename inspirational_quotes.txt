@@ -30,3 +30,9 @@ if __name__ == "__main__":
     main()
 else:
     print("it's not the main")
+
+
+
+
+
+#ver 3  will be with regex checking
