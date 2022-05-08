@@ -18,7 +18,7 @@ def logic(inp_age):
 
 def main():
     age = int(input())
-    default_age = 18
+    default_age = 18 # The default age for comparing is 18 years 
     default_price = logic(default_age)
     changed_price = logic(age)
     percent_change = int(((changed_price - default_price)/default_price) * 100)
