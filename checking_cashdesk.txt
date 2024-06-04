@@ -5,8 +5,8 @@ data = {"100-90": 25, "42-01": 48, "55-09": 12, "128-64": 71, "002-22": 18, "321
         "87-436": 12, "87-437": 16, "94-121": 15, "94-122": 35, "80-089": 10, "87-456": 8, "87-430": 40}
 
 
-def logic(inp_age):
-    # adding +5 to money if age is less then age and +20 if not
+def logic(inp_age: int):
+    # adding +5 to money if age is less tr age and +20 if not
     money_total = 0
     for i in data.values():
         if i < inp_age:
