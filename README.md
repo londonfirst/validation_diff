@@ -1,2 +1,2 @@
-Just a playground <b>repo </b><br>
+Just a playground repo
 for Github introduction
