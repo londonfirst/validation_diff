@@ -1,4 +1,4 @@
-Just a playground <a href="https://github.com/londonfirst/validation_diff" repo</a> for Github introduction <br>
+Just a playground <a href="https://github.com/londonfirst/validation_diff" repo </a> for Github introduction <br>
 <ul>
   <li>Link with Pycharm</li>
   <li>Create a new branch</li>
