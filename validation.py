@@ -9,7 +9,7 @@ data = {"100-90": 25, "42-01": 48, "55-09": 12, "128-64": 71, "002-22": 18, "321
 
 
 
-def logic(inp_age: int):
+def logic(inp_age: int) -> int:
     # adding +5 to money if age is less tr age and +20 if not
     money_total = 0
     for i in data.values():
